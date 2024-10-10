@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<link rel="stylesheet" href="form.css">
+<body>
+    <center>
+    <form class="form">
+        <p class="title">Sell new device </p>
+        <p class="message">Add the details of your device </p>
+            <div class="flex">
+            <label class="name">
+                <input required="" placeholder="" type="text" class="input">
+                <span>Device name</span>
+            </label>
+    
+        </div>  
+                
+        <label>
+            <input required="" placeholder="" type="text" class="input">
+            <span>Brand</span>
+        </label> 
+        <label>
+            <input required="" placeholder="" type="text" class="input">
+            <span>Model</span>
+        </label> 
+        <label>
+            <input required="" placeholder="" type="text" class="input">
+            <span>Serial Number</span>
+        </label>
+        <label>
+            <input required="" placeholder="" type="text" class="input">
+            <span>Year of Purchase</span>
+        </label>
+        <label>
+            <input required="" placeholder="" type="text" class="input">
+            <span>Any defects?</span>
+        </label><div class="custom-radio-group">
+            <label class="custom-radio-container">
+              <input type="radio" name="custom-radio" value="option1" />
+              <span class="custom-radio-checkmark"></span>
+              New
+            </label>
+            <label class="custom-radio-container">
+              <input type="radio" name="custom-radio" value="option2" />
+              <span class="custom-radio-checkmark"></span>
+              Used
+            </label>
+            <label class="custom-radio-container">
+              <input type="radio" name="custom-radio" value="option3" />
+              <span class="custom-radio-checkmark"></span>
+Damaged
+            </label>
+          </div>
+        
+        
+        <div class="container">
+            <div class="card">
+              <h3>Upload Files</h3>
+              <div class="drop_box">
+                <header>
+                  <h4>Select File here</h4>
+                </header>
+                <p>Files Supported: PDF, TEXT, DOC , DOCX</p>
+                <input type="file" hidden accept=".doc,.docx,.pdf" id="fileID" style="display:none;">
+                <button class="btn">Choose File</button>
+              </div>
+          
+            </div>
+          </div>
+        <button class="submit">Submit</button>
+       
+    </form>
+</center>
+                   
+      <script src="form.js"></script>
+</body>
+</html>

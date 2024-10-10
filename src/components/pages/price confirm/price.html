@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price Finalization</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px #295255;
+          width: 500px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .device-details, .price-section {
+            margin: 20px 0;
+        }
+        label {
+            display: block;
+            margin: 10px 0 5px;
+            
+        }
+        input{
+            left:-8px;
+            position: relative;
+        }
+        input[type="number"] {
+            width: 100%;
+            padding: 10px;
+          
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        input[type="number"]:hover {
+            width: 100%;
+            padding: 10px;
+          
+            border: 2px solid #162623;
+margin-right: 100px;
+            border-radius: 5px;
+        }
+        button {
+            padding: 10px 15px;
+            background-color: #162623
+            ;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color:#295255
+            ;
+        }
+    </style>
+</head>
+<body>
+<center>
+<div class="container">
+    <h1>Price Finalization</h1>
+    
+    <div class="device-details">
+        <h2>Device Details</h2>
+        <p><strong>Device Name:</strong> iPhone 13</p>
+        <p><strong>Condition:</strong> Good</p>
+        <p><strong>Additional Details:</strong> 128GB, Black</p>
+    </div>
+    
+    <div class="price-section">
+        <h2>Automatically Generated Price</h2>
+        <label for="estimated-price">Estimated Price:</label>
+        <input type="number" id="estimated-price" value="500" readonly>
+        
+        <label for="adjusted-price">Adjust Price (if necessary):</label>
+        <input type="number" id="adjusted-price" placeholder="Enter new price">
+    </div>
+    
+    <div class="actions">
+        <button id="approve-button">Approve Price</button>
+     
+    </div>
+</div>
+</center>
+
+<script src="price.js">
+    
+</script>
+
+</body>
+</html>
