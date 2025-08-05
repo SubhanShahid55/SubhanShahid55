@@ -3,8 +3,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=👨‍💻+Frontend+Developer;🎓+Software+Engineering+Student;💻+Passionate+Coder;🚀+Always+Learning;⚡+JavaScript+Enthusiast;🎨+UI%2FUX+Designer;🌟+React+Specialist;🔥+Building+Amazing+Apps;💡+Problem+Solver;🎯+Clean+Code+Advocate;🌐+Web+Technologies+Lover;📱+Responsive+Design+Expert;🛠️+Full+Stack+Explorer;🎪+Creative+Developer;🚀+Next.js+Fan;💎+TypeScript+Developer;🎨+CSS+Wizard;📊+Data+Visualization;🌈+Modern+Web+Builder;⭐+Open+Source+Contributor" alt="Typing SVG" />
 </div>
-
-<!-- Alternative with gradient colors -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Muhammad+Subhan+Shahid;💻+Frontend+Developer+%7C+🎓+Student+%7C+⚡+Coder" alt="Typing SVG Header" />
 </div>
@@ -20,6 +18,7 @@ Passionate frontend developer and aspiring software engineer with a love for cod
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Frontend Development, React, JavaScript**
 - ⚡ Fun fact: **I debug with console.log more than I'd like to admit! 😄**
+
 
 ## 🛠️ Tech Stack & Tools
 
