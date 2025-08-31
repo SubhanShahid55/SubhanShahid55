@@ -90,7 +90,7 @@ Passionate frontend developer and aspiring software engineer with a love for cod
   <a href="rajpootsubhan41@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/yourhandle">
+  <a href="https://x.com/subhanss172">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
