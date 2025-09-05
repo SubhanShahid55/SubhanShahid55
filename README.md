@@ -11,6 +11,8 @@
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 Passionate frontend developer and aspiring software engineer with a love for coding and building innovative web experiences. Currently studying while actively developing projects using modern web technologies. Driven by curiosity and a commitment to continuous learning, I enjoy transforming ideas into functional, user-friendly applications. Always exploring new frameworks and methodologies to stay at the forefront of web development.
 
 - 🔭 Currently working on **Modern Web Applications**
