@@ -103,34 +103,24 @@ Debugging    1 hr 18 mins    ██░░░░░░░░░░░░░░░
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhanShahid55&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </div>
 
-## 🚀 How to Enable Automatic Updates
-
-To make the GitHub activity and stats sections update automatically, I've created a GitHub Actions workflow that will:
-
-- **Update recent activity every 6 hours**
-- **Refresh GitHub stats and contribution data**
-- **Update coding activity breakdown (requires WakaTime setup)**
-
-### 🔧 Setup Instructions:
-
-1. **Enable GitHub Actions** in your repository settings
-2. **For WakaTime integration** (optional):
-   - Sign up at [WakaTime](https://wakatime.com/)
-   - Get your API key from WakaTime dashboard
-   - Add `WAKATIME_API_KEY` to your repository secrets
-3. **Repository Secrets** (Settings → Secrets and variables → Actions):
-   - `WAKATIME_API_KEY`: Your WakaTime API key (optional)
-   - `GH_TOKEN`: Your GitHub personal access token (auto-provided)
-
-### ⚡ Features:
-- **Automatic updates every 6 hours**
-- **Manual trigger available**
-- **Recent GitHub activity tracking**
-- **Coding statistics integration**
-- **Dynamic tech stack icons**
-
 ## 🌐 Connect with Me
 
+<div align="center">
+  <a href="https://www.instagram.com/iamsubhanshahid/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" height="50"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="mailto:rajpootsubhan41@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50" height="50"/>
+  </a>
+  <a href="https://x.com/subhanss172">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="50" height="50"/>
+  </a>
+</div>
+
+### 📱 Social Media Links
 <div align="center">
   <a href="https://www.instagram.com/iamsubhanshahid/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
@@ -138,7 +128,7 @@ To make the GitHub activity and stats sections update automatically, I've create
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="rajpootsubhan41@gmail.com">
+  <a href="mailto:rajpootsubhan41@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://x.com/subhanss172">
