@@ -92,21 +92,16 @@ Debugging    1 hr 18 mins    ██░░░░░░░░░░░░░░░
 
 ### 🐍 Contribution Snake
 <div align="center">
+  <img src="https://raw.githubusercontent.com/SubhanShahid55/SubhanShahid55/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+</div>
+
+<!-- Fallback while waiting for generation -->
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SubhanShahid55/SubhanShahid55/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SubhanShahid55/SubhanShahid55/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SubhanShahid55/SubhanShahid55/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
-
-<!-- Alternative Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SubhanShahid55/SubhanShahid55/output/snake.svg" alt="Snake eating my contributions" />
-</div>
-
-<!-- GitHub Metrics Alternative -->
-<div align="center">
-  <img src="https://github.com/SubhanShahid55/SubhanShahid55/blob/main/assets/github-snake.svg" alt="Snake Animation" />
 </div>
 
 ## 🏆 GitHub Trophies
