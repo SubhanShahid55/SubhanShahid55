@@ -24,59 +24,110 @@ Passionate frontend developer and aspiring software engineer with a love for cod
 
 ### 💻 Programming Languages
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,java,python" alt="Programming Languages"/>
 </p>
 
 ### 🎨 Frontend Development
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,bootstrap,vite,webpack" alt="Frontend Technologies"/>
 </p>
 
 ### ⚙️ Backend & Database
 <p>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,mongodb,mysql,postgresql,firebase,redis" alt="Backend & Database"/>
 </p>
 
-### 🎨 Design & Tools
+### 🛠️ Tools & Technologies
 <p>
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
-<img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer"/>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator,docker,aws,vercel" alt="Tools & Technologies"/>
 </p>
 
-## 📊 GitHub Stats
+### 📊 Most Used Languages (Dynamic)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanShahid55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=445" alt="Most Used Languages"/>
+</div>
+
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SubhanShahid55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanShahid55&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SubhanShahid55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanShahid55&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhanShahid55&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhanShahid55&theme=tokyonight&border_radius=10&background=0D1117" alt="GitHub Streak Stats"/>
+</div>
+
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhanShahid55&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=79dafa&line=79dafa&point=ffffff" alt="GitHub Activity Graph"/>
+</div>
+
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+### 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+```text
+💬 Programming Languages:
+JavaScript   8 hrs 32 mins   ██████████████████░░░   72.14% 
+TypeScript   2 hrs 15 mins   ████░░░░░░░░░░░░░░░░░   19.05% 
+CSS          0 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░   6.32% 
+HTML         0 hrs 18 mins   ░░░░░░░░░░░░░░░░░░░░░   2.49% 
+
+🔥 Editors:
+VS Code      11 hrs 50 mins  █████████████████████   100.0% 
+
+💻 Operating System:
+Windows      11 hrs 50 mins  █████████████████████   100.0% 
+
+📦 Category:
+Coding       10 hrs 32 mins  ██████████████████░░░   89.0% 
+Debugging    1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░   11.0% 
+```
+<!--END_SECTION:waka-->
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SubhanShahid55/SubhanShahid55/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SubhanShahid55&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SubhanShahid55&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 ## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhanShahid55&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </div>
+
+## 🚀 How to Enable Automatic Updates
+
+To make the GitHub activity and stats sections update automatically, I've created a GitHub Actions workflow that will:
+
+- **Update recent activity every 6 hours**
+- **Refresh GitHub stats and contribution data**
+- **Update coding activity breakdown (requires WakaTime setup)**
+
+### 🔧 Setup Instructions:
+
+1. **Enable GitHub Actions** in your repository settings
+2. **For WakaTime integration** (optional):
+   - Sign up at [WakaTime](https://wakatime.com/)
+   - Get your API key from WakaTime dashboard
+   - Add `WAKATIME_API_KEY` to your repository secrets
+3. **Repository Secrets** (Settings → Secrets and variables → Actions):
+   - `WAKATIME_API_KEY`: Your WakaTime API key (optional)
+   - `GH_TOKEN`: Your GitHub personal access token (auto-provided)
+
+### ⚡ Features:
+- **Automatic updates every 6 hours**
+- **Manual trigger available**
+- **Recent GitHub activity tracking**
+- **Coding statistics integration**
+- **Dynamic tech stack icons**
 
 ## 🌐 Connect with Me
 
