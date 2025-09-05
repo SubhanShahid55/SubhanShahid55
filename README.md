@@ -92,17 +92,26 @@ Debugging    1 hr 18 mins    ██░░░░░░░░░░░░░░░
 
 ### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SubhanShahid55/SubhanShahid55/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SubhanShahid55/SubhanShahid55/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SubhanShahid55/SubhanShahid55/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SubhanShahid55/SubhanShahid55/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Alternative Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SubhanShahid55/SubhanShahid55/output/snake.svg" alt="Snake eating my contributions" />
+</div>
+
+<!-- GitHub Metrics Alternative -->
+<div align="center">
+  <img src="https://github.com/SubhanShahid55/SubhanShahid55/blob/main/assets/github-snake.svg" alt="Snake Animation" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SubhanShahid55&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhanShahid55&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </div>
 
 ## 🌐 Connect with Me
