@@ -44,7 +44,7 @@ Passionate frontend developer and aspiring software engineer with a love for cod
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator,docker,aws,vercel" alt="Tools & Technologies"/>
 </p>
 
-### 📊 Most Used Languages (Dynamic)
+### 📊 Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanShahid55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=445" alt="Most Used Languages"/>
 </div>
