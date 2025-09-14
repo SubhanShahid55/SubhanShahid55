@@ -3,10 +3,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=👨‍💻+Frontend+Developer;🎓+Software+Engineering+Student;💻+Passionate+Coder;🚀+Always+Learning;⚡+JavaScript+Enthusiast;🎨+UI%2FUX+Designer;🌟+React+Specialist;🔥+Building+Amazing+Apps;💡+Problem+Solver;🎯+Clean+Code+Advocate;🌐+Web+Technologies+Lover;📱+Responsive+Design+Expert;🛠️+Full+Stack+Explorer;🎪+Creative+Developer;🚀+Next.js+Fan;💎+TypeScript+Developer;🎨+CSS+Wizard;📊+Data+Visualization;🌈+Modern+Web+Builder;⭐+Open+Source+Contributor" alt="Typing SVG" />
 </div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Muhammad+Subhan+Shahid;💻+Frontend+Developer+%7C+🎓+Student+%7C+⚡+Coder" alt="Typing SVG Header" />
-</div>
-
 
 
 ## 🚀 About Me
@@ -20,7 +16,6 @@ Passionate frontend developer and aspiring software engineer with a love for cod
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Frontend Development, React, JavaScript**
 - ⚡ Fun fact: **I debug with console.log more than I'd like to admit! 😄**
-
 
 ## 🛠️ Tech Stack & Tools
 
@@ -115,7 +110,7 @@ Debugging    1 hr 18 mins    ██░░░░░░░░░░░░░░░
   <a href="https://www.instagram.com/iamsubhanshahid/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" height="50"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/muhammad-subhan-shahid-564160384">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50"/>
   </a>
   <a href="mailto:rajpootsubhan41@gmail.com">
@@ -131,7 +126,7 @@ Debugging    1 hr 18 mins    ██░░░░░░░░░░░░░░░
   <a href="https://www.instagram.com/iamsubhanshahid/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/muhammad-subhan-shahid-564160384">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:rajpootsubhan41@gmail.com">
