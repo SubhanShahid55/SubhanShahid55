@@ -62,6 +62,8 @@ Passionate frontend developer and aspiring software engineer with a love for cod
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](undefined) in [sanahafeez9t9/My_Portfolio](https://github.com/sanahafeez9t9/My_Portfolio)
+2. 💪 Opened PR [#1](undefined) in [sanahafeez9t9/My_Portfolio](https://github.com/sanahafeez9t9/My_Portfolio)
 <!--END_SECTION:activity-->
 
 ### 📊 Weekly Development Breakdown
