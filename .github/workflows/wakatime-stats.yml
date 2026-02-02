@@ -2,8 +2,11 @@ name: WakaTime Stats Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Update daily at midnight UTC
+    - cron: '0 */2 * * *'  # Update every 2 hours for real-time data
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   update-readme:

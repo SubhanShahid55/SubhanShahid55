@@ -2,8 +2,15 @@ name: Update README with Recent Activity
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Update every 6 hours
+    - cron: '0 * * * *'  # Update every hour for real-time activity
   workflow_dispatch:  # Allow manual triggering
+  push:
+    branches:
+      - main
+  pull_request:
+    types: [opened, closed]
+  issues:
+    types: [opened, closed]
 
 jobs:
   update-readme:
