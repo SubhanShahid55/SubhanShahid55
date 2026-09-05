@@ -9,14 +9,14 @@ permissions:
   contents: write
 
 jobs:
-  update-profile:
+  snake:
+    name: Generate Contribution Snake
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate contribution snake
+      - name: Generate snake (light + dark)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: SubhanShahid55
@@ -26,23 +26,25 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate GitHub profile cards
-        run: node scripts/generate-profile-cards.mjs
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit generated profile assets
+      - name: Commit snake SVGs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/generated
-          git diff --cached --quiet || git commit -m "chore: refresh profile assets"
+          git add assets/generated/github-contribution-grid-snake.svg assets/generated/github-contribution-grid-snake-dark.svg
+          git diff --cached --quiet || git commit -m "chore: refresh contribution snake"
           git push
 
-      - name: Update README with recent activity
+  activity:
+    name: Update Recent Activity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README activity section
         uses: jamesgeorge007/github-activity-readme@master
         with:
-          COMMIT_MSG: 'Update profile activity'
-          MAX_LINES: 10
+          COMMIT_MSG: 'chore: update recent activity'
+          MAX_LINES: 8
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
