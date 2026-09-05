@@ -80,6 +80,14 @@ My work spans fintech, healthcare, e-commerce, SaaS, and browser extensions. I a
   </tr>
 </table>
 
+<br />
+
+<div align="center">
+  <img src="./assets/demon-slayer-elemental.jpg" alt="Elemental Art" width="100%" />
+</div>
+
+<br />
+
 ## Experience highlights
 
 <table>
@@ -112,10 +120,13 @@ My work spans fintech, healthcare, e-commerce, SaaS, and browser extensions. I a
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SubhanShahid55&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&icon_color=22D3EE" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanShahid55&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" alt="Most used languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=SubhanShahid55&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&icon_color=22D3EE" alt="GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SubhanShahid55&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" alt="Most used languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhanShahid55&bg_color=0D1117&color=E2E8F0&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=SubhanShahid55&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakNum=E2E8F0" alt="GitHub Streak Stats" />
 </div>
 
 ## Beyond the terminal
@@ -125,7 +136,23 @@ My work spans fintech, healthcare, e-commerce, SaaS, and browser extensions. I a
   <img height="112" src="https://media.tenor.com/ejtbHPd-7FwAAAAe/goku-dance.png" alt="Goku animation" />
   <img height="112" src="https://media1.tenor.com/m/hEG9c5nNUdUAAAAd/naruto-smile.gif" alt="Naruto animation" />
   <img height="112" src="https://giffiles.alphacoders.com/219/219553.gif" alt="Tanjiro from Demon Slayer animation" />
+  <img src="https://raw.githubusercontent.com/SubhanShahid55/SubhanShahid55/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
 </div>
+
+<br />
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/naruto-chakra-mode.jpg" alt="Artwork" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/ultra-instinct-goku.jpg" alt="Artwork" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br />
 
 ## Let us build something useful
 
