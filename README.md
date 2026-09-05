@@ -1,153 +1,139 @@
-# 👋 Hi there, I'm Muhammad Subhan Shahid
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=👨‍💻+Frontend+Developer;🎓+Software+Engineering+Student;💻+Passionate+Coder;🚀+Always+Learning;⚡+JavaScript+Enthusiast;🎨+UI%2FUX+Designer;🌟+React+Specialist;🔥+Building+Amazing+Apps;💡+Problem+Solver;🎯+Clean+Code+Advocate;🌐+Web+Technologies+Lover;📱+Responsive+Design+Expert;🛠️+Full+Stack+Explorer;🎪+Creative+Developer;🚀+Next.js+Fan;💎+TypeScript+Developer;🎨+CSS+Wizard;📊+Data+Visualization;🌈+Modern+Web+Builder;⭐+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090a1a,45:302b63,100:00c6ff&height=230&section=header&text=MUHAMMAD%20SUBHAN%20SHAHID&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL-STACK%20ENGINEER%20%7C%20TURNING%20IDEAS%20INTO%20PRODUCTS&descAlignY=56&descSize=15" alt="Muhammad Subhan Shahid profile header" width="100%" />
+
+  <a href="https://subhanshahidportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Open%20site-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-subhan-shahid-564160384"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:subhanshahid.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhammad" /></a>
 </div>
 
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-Passionate frontend developer and aspiring software engineer with a love for coding and building innovative web experiences. Currently studying while actively developing projects using modern web technologies. Driven by curiosity and a commitment to continuous learning, I enjoy transforming ideas into functional, user-friendly applications. Always exploring new frameworks and methodologies to stay at the forefront of web development.
-
-- 🔭 Currently working on **Modern Web Applications**
-- 🌱 Learning **Advanced React Patterns & Full Stack Development**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Frontend Development, React, JavaScript**
-- ⚡ Fun fact: **I debug with console.log more than I'd like to admit! 😄**
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,cs,java,python" alt="Programming Languages"/>
-</p>
-
-### 🎨 Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,sass,tailwind,bootstrap,vite,webpack" alt="Frontend Technologies"/>
-</p>
-
-### ⚙️ Backend & Database
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,mongodb,mysql,postgresql,firebase,redis" alt="Backend & Database"/>
-</p>
-
-### 🛠️ Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator,docker,aws,vercel" alt="Tools & Technologies"/>
-</p>
-
-### 📊 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanShahid55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=445" alt="Most Used Languages"/>
-</div>
-
-## 📊 GitHub Stats & Activity
+<br />
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SubhanShahid55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanShahid55&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&bg_color=0D1117"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=6EE7F9&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Building+fast%2C+useful%2C+production-ready+web+experiences" alt="Animated introduction" />
+</div>
+
+## About
+
+I am Muhammad Subhan Shahid, a Software Engineer and Full-Stack Developer based in Rawalpindi, Pakistan. I build responsive web applications from interface to API, database, and deployment.
+
+My work spans fintech, healthcare, e-commerce, SaaS, and browser extensions. I am open to full-time and freelance Software Engineer, MERN, and Next.js roles.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Current signal</h3>
+      <ul>
+        <li>15+ international client projects delivered</li>
+        <li>500+ qualified B2B leads generated monthly</li>
+        <li>10,000+ daily AI diagnostic requests supported</li>
+        <li>99.8% backend uptime on production services</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Working style</h3>
+      <ul>
+        <li>Clean interfaces with thoughtful user flows</li>
+        <li>Scalable APIs and reliable data layers</li>
+        <li>Clear communication and ownership</li>
+        <li>Focused on measurable product outcomes</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Digital Media Archive</h3>
+      <p>A secure, modern workspace for uploading, viewing, downloading, and organizing digital media.</p>
+      <p><code>React</code> <code>Frontend</code> <code>University Project</code></p>
+      <a href="https://digitalmediaarchive.vercel.app/">View live project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Homixa</h3>
+      <p>A polished web presence for home services, designed around clear service discovery and conversion paths.</p>
+      <p><code>Web Development</code> <code>Freelance</code></p>
+      <a href="https://www.homixaleads.online/">View live project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Meme Coins Agent</h3>
+      <p>A cryptocurrency information platform for live market data, analysis, and meme coin research.</p>
+      <p><code>Web Development</code> <code>Freelance</code></p>
+      <a href="https://memecoinsagent.info/">View live project</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Habit Tracker</h3>
+      <p>A React app for building routines through progress tracking, streaks, and visual analytics.</p>
+      <p><code>React</code> <code>Frontend</code></p>
+      <a href="https://github.com/SubhanShahid55">Explore my GitHub</a>
+    </td>
+  </tr>
+</table>
+
+## Experience highlights
+
+<table>
+  <tr>
+    <td><strong>Brawse</strong><br />Junior Software Engineer<br /><sub>2025 to 2026</sub></td>
+    <td>Built browser extension UI, popup flows, options pages, and service integrations.</td>
+  </tr>
+  <tr>
+    <td><strong>Smile Check AI</strong><br />Backend Developer<br /><sub>2024 to 2026</sub></td>
+    <td>Improved API latency by 30% through database optimization and caching.</td>
+  </tr>
+  <tr>
+    <td><strong>Devmerce</strong><br />Freelance Full-Stack Developer<br /><sub>2025</sub></td>
+    <td>Delivered solutions for 15+ clients and reduced deployment time by 40% with CI/CD.</td>
+  </tr>
+  <tr>
+    <td><strong>EasyPaisa</strong><br />Summer Intern<br /><sub>2024</sub></td>
+    <td>Supported merchant and retail application features within the Channel and Development Solutions team.</td>
+  </tr>
+</table>
+
+## Core stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,express,mongodb,postgres,docker,git,vercel&perline=14" alt="React, Next.js, TypeScript, JavaScript, Tailwind, HTML, CSS, Node.js, Express, MongoDB, PostgreSQL, Docker, Git and Vercel" />
+</div>
+
+<br />
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SubhanShahid55&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&icon_color=22D3EE" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanShahid55&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhanShahid55&theme=tokyonight&border_radius=10&background=0D1117" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhanShahid55&bg_color=0D1117&color=E2E8F0&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity" width="100%" />
 </div>
 
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhanShahid55&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=79dafa&line=79dafa&point=ffffff" alt="GitHub Activity Graph"/>
-</div>
-
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/sanahafeez9t9/My_Portfolio/pull/1) in [sanahafeez9t9/My_Portfolio](https://github.com/sanahafeez9t9/My_Portfolio)
-2. 💪 Opened PR [#1](https://github.com/sanahafeez9t9/My_Portfolio/pull/1) in [sanahafeez9t9/My_Portfolio](https://github.com/sanahafeez9t9/My_Portfolio)
-<!--END_SECTION:activity-->
-
-### 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-```text
-💬 Programming Languages:
-JavaScript   8 hrs 32 mins   ██████████████████░░░   72.14% 
-TypeScript   2 hrs 15 mins   ████░░░░░░░░░░░░░░░░░   19.05% 
-CSS          0 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░   6.32% 
-HTML         0 hrs 18 mins   ░░░░░░░░░░░░░░░░░░░░░   2.49% 
-
-🔥 Editors:
-VS Code      11 hrs 50 mins  █████████████████████   100.0% 
-
-💻 Operating System:
-Windows      11 hrs 50 mins  █████████████████████   100.0% 
-
-📦 Category:
-Coding       10 hrs 32 mins  ██████████████████░░░   89.0% 
-Debugging    1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░   11.0% 
-```
-<!--END_SECTION:waka-->
-
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SubhanShahid55/SubhanShahid55/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
-</div>
-
-<!-- Fallback while waiting for generation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SubhanShahid55&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
-## 🌐 Connect with Me
+## Beyond the terminal
 
 <div align="center">
-  <a href="https://www.instagram.com/iamsubhanshahid/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" height="50"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-subhan-shahid-564160384">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50"/>
-  </a>
-  <a href="mailto:rajpootsubhan41@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50" height="50"/>
-  </a>
-  <a href="https://x.com/subhanss172">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="50" height="50"/>
-  </a>
+  <p>Anime fan: Dragon Ball Z, Naruto, and Demon Slayer.</p>
+  <img height="112" src="https://media.tenor.com/ejtbHPd-7FwAAAAe/goku-dance.png" alt="Goku animation" />
+  <img height="112" src="https://media1.tenor.com/m/hEG9c5nNUdUAAAAd/naruto-smile.gif" alt="Naruto animation" />
+  <img height="112" src="https://giffiles.alphacoders.com/219/219553.gif" alt="Tanjiro from Demon Slayer animation" />
 </div>
 
-### 📱 Social Media Links
-<div align="center">
-  <a href="https://www.instagram.com/iamsubhanshahid/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-subhan-shahid-564160384">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rajpootsubhan41@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://x.com/subhanss172">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</div>
-
-## 💭 Quote of the Day
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
+## Let us build something useful
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SubhanShahid55&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-  
-  **✨ "Code is like humor. When you have to explain it, it's bad." – Cory House ✨**
+  <a href="https://subhanshahidportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-subhanshahidportfolio.vercel.app-7c3aed?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio link" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-subhan-shahid-564160384"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Subhan%20Shahid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn link" /></a>
+  <a href="mailto:subhanshahid.dev@gmail.com"><img src="https://img.shields.io/badge/Email-subhanshahid.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email link" /></a>
+  <a href="https://wa.me/923240545602"><img src="https://img.shields.io/badge/WhatsApp-Message%20me-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp link" /></a>
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SubhanShahid55&label=Profile%20views&color=7c3aed&style=flat-square" alt="Profile views" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:302b63,100:090a1a&height=120&section=footer" alt="Profile footer" width="100%" />
