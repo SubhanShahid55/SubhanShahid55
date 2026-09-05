@@ -129,25 +129,13 @@ My work spans fintech, healthcare, e-commerce, SaaS, and browser extensions. I a
   <img src="https://streak-stats.demolab.com/?user=SubhanShahid55&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakNum=E2E8F0" alt="GitHub Streak Stats" />
 </div>
 
-## Beyond the terminal
-
-<div align="center">
-  <p>Anime fan: Dragon Ball Z, Naruto, and Demon Slayer.</p>
-  <img height="112" src="https://media.tenor.com/ejtbHPd-7FwAAAAe/goku-dance.png" alt="Goku animation" />
-  <img height="112" src="https://media1.tenor.com/m/hEG9c5nNUdUAAAAd/naruto-smile.gif" alt="Naruto animation" />
-  <img height="112" src="https://giffiles.alphacoders.com/219/219553.gif" alt="Tanjiro from Demon Slayer animation" />
-  <img src="https://raw.githubusercontent.com/SubhanShahid55/SubhanShahid55/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%" />
-</div>
-
-<br />
-
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="./assets/naruto-chakra-mode.jpg" alt="Artwork" width="100%" />
+      <img src="./assets/naruto-chakra-mode.jpg" alt="Anime artwork" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="./assets/ultra-instinct-goku.jpg" alt="Artwork" width="100%" />
+      <img src="./assets/ultra-instinct-goku.jpg" alt="Anime artwork" width="100%" />
     </td>
   </tr>
 </table>
