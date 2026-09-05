@@ -12,6 +12,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=6EE7F9&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Building+fast%2C+useful%2C+production-ready+web+experiences" alt="Animated introduction" />
 </div>
 
+<div align="center">
+  <img src="./assets/cyber-city-night.jpg" alt="Aesthetic Cityscape" width="100%" />
+</div>
+
+<br />
+
 ## About
 
 I am Muhammad Subhan Shahid, a Software Engineer and Full-Stack Developer based in Rawalpindi, Pakistan. I build responsive web applications from interface to API, database, and deployment.
