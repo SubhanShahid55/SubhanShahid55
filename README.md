@@ -65,9 +65,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SubhanShahid55&theme=tokyonight&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-  </a>
+  <img src="./assets/generated/github-achievements.svg" alt="GitHub achievements" width="100%" />
 </div>
 
 <br />
@@ -143,12 +141,7 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhanShahid55&show_icons=true&hide_title=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&icon_color=22D3EE" alt="GitHub statistics" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=SubhanShahid55&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=A78BFA&currStreakNum=E2E8F0" alt="GitHub Streak Stats" height="165" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhanShahid55&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0" alt="Most used languages" height="165" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhanShahid55&bg_color=0D1117&color=E2E8F0&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity" width="100%" />
+  <img src="./assets/generated/github-stats.svg" alt="GitHub statistics" width="100%" />
 </div>
 
 <br />
@@ -157,9 +150,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SubhanShahid55/SubhanShahid55/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SubhanShahid55/SubhanShahid55/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SubhanShahid55/SubhanShahid55/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/generated/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="./assets/generated/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
